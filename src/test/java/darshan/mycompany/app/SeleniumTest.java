@@ -14,5 +14,10 @@ public class SeleniumTest {
 	{
 		System.out.println("elementuis");
 	}
+	@Test
+	public void elementuisspo()
+	{
+		System.out.println("elementuisspo");
+	}
 
 }
